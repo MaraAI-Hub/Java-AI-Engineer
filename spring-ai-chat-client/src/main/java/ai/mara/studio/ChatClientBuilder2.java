@@ -6,7 +6,7 @@ import org.springframework.ai.deepseek.DeepSeekChatModel;
 import org.springframework.ai.deepseek.DeepSeekChatOptions;
 import org.springframework.ai.deepseek.api.DeepSeekApi;
 
-public class ChatClientBuilder {
+public class ChatClientBuilder2 {
     private static final String DEEP_SEEK_BASE_URL = "https://api.deepseek.com";
     private static final String DEEP_SEEK_MODEL = "deepseek-chat";
     private static final String DEEP_SEEK_API_KEY = System.getenv("DEEP_SEEK_API_KEY");
