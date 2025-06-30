@@ -10,12 +10,13 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.zhicraft.samples</groupId>
-	<artifactId>parent</artifactId>
+	<artifactId>ai-samples-for-java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>java-ai-samples</name>
 	<modules>
 		<module>spring-ai-advisors</module>
+		<module>spring-ai-chatmodel</module>
 		<module>spring-ai-tool-calling</module>
 	</modules>
 	<properties>
