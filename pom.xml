@@ -13,6 +13,7 @@
 	<artifactId>parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
+	<name>java-ai-samples</name>
 	<modules>
 		<module>spring-ai-advisors</module>
 		<module>spring-ai-tool-calling</module>
