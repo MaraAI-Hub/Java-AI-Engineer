@@ -18,7 +18,8 @@
 		<module>spring-ai-advisors</module>
 		<module>spring-ai-chatmodel</module>
 		<module>spring-ai-tool-calling</module>
-	</modules>
+        <module>spring-ai-mcp</module>
+    </modules>
 	<properties>
 		<maven.compiler.source>21</maven.compiler.source>
 		<maven.compiler.target>21</maven.compiler.target>

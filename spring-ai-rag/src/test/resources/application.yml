@@ -1,0 +1,10 @@
+spring:
+  ai:
+    azure:
+      openai:
+        api-key: api-key
+        endpoint: endpoint
+        embedding:
+          options:
+            deployment-name: text-embedding-3-large
+            model: text-embedding-3-large
